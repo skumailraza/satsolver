@@ -1,8 +1,3 @@
-# satsolver
-A simple SAT Solver.
-
-**Question 2**
-
 **SIMPLE SAT SOLVER**
 
 ## Specifications:
