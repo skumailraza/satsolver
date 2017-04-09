@@ -14,14 +14,13 @@ python run.py
 
 - Type the wff using logical connectives as following:
 
-| or | | |
-| --- | --- |
-| and | &amp; |
-| not | ! |
-| implication | -&gt; |
-| iff | &lt;-&gt; |
-| equivalence | &lt;=&gt; |
-| parenthesis | () as required |
+or |
+and  &amp;
+not  ! 
+implication  -&gt; 
+iff  &lt;-&gt; 
+equivalence &lt;=&gt; 
+parenthesis  () as required
 
 ## Example Runs:
 
